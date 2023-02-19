@@ -45,3 +45,8 @@ Network 정리
 ![image](https://user-images.githubusercontent.com/35188271/219952696-ee495b28-9e7e-4354-a4f8-5fe39314df84.png)
 
 
+- `스위치` : MAC주소 기반 통신, 라우팅 기능이 있으면 L3스위치라고 한다.
+- `ARP(Address Resolution Protocol)` : IP주소를 통해서 MAC주소를 알려주는 프로토콜.  
+![image](https://user-images.githubusercontent.com/35188271/219953878-69629064-fc1f-4727-978f-f00cbd9f88fb.png)
+- `DHCP(Dynamic Host Control Protocol)` : 
+![image](https://user-images.githubusercontent.com/35188271/219954553-140de058-a43d-4648-abfc-d486bbd23797.png)
